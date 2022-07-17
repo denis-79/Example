@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\bin\Debug\net6.0\Example005_ConditionIfELse.exe
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\bin\Debug\net6.0\Example005_ConditionIfELse.deps.json
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\bin\Debug\net6.0\Example005_ConditionIfELse.runtimeconfig.json
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\bin\Debug\net6.0\Example005_ConditionIfELse.dll
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\bin\Debug\net6.0\Example005_ConditionIfELse.pdb
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\obj\Debug\net6.0\Example005_ConditionIfELse.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\obj\Debug\net6.0\Example005_ConditionIfELse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\obj\Debug\net6.0\Example005_ConditionIfELse.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\obj\Debug\net6.0\Example005_ConditionIfELse.AssemblyInfo.cs
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\obj\Debug\net6.0\Example005_ConditionIfELse.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\obj\Debug\net6.0\Example005_ConditionIfELse.dll
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\obj\Debug\net6.0\refint\Example005_ConditionIfELse.dll
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\obj\Debug\net6.0\Example005_ConditionIfELse.pdb
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\obj\Debug\net6.0\Example005_ConditionIfELse.genruntimeconfig.cache
+C:\Users\user\Documents\GeekBrains\Example\Example005_ConditionIfELse\obj\Debug\net6.0\ref\Example005_ConditionIfELse.dll
